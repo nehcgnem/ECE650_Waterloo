@@ -1,1 +1,1 @@
-# ECE650_Waterloo
+# ECE650 Assignments and Project
